@@ -1,5 +1,20 @@
 # Changelog: Economic Dossier H1 2026 Analytical Dashboard (BETA)
 
+## Beta v1.2 (28 Oct 2026)
+
+Fixes from the second consistency review.
+
+- Source lines read "Source: national dossiers, H1 2026." The methods sentence now appears only in the footer and under the opportunity and risk charts and the Middle East panel. The market-access table is sourced to national and Consulate-General dossiers.
+- The growth and inflation scatter plots only the 167 comparable economies. Economies with no Q1 or Q2 figure are shown hollow, with a note. The line is labelled "MY Q2 6.0%".
+- Internal source names are removed from the footer, the Explorer and the data notes.
+- Opportunity, risk and recommended-action labels follow the report's wording, use "and" instead of "&", and carry no agency names.
+- Consulate-General dossiers are described as "drawn on for their qualitative insights".
+- The type tag "Resource nationalism" is now "Permits / levy". Axis titles read "Economies". Tab 2 and Tab 5 medians use one decimal, and policy rate shows 4.43.
+- The Top 10 companies follow the report's order. The Tab 2 subtitle refers to the report's growth bands. The Flags column is removed from the faster-growth table.
+- The Iran panel states the dossier's March to June figure (-10.1%) and explains that the Macro Snapshot figure (-6.1%) is the cited 2026 forecast.
+- The theme counts on Tab 3 are flagged as indicative and still including Consulate-General input (see the review notes).
+- The footer label reads Beta v1.2.
+
 ## Beta v1.1 (28 Oct 2026)
 
 Fixes from the consistency review against Report v9.23.
