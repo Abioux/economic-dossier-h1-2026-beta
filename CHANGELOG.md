@@ -1,5 +1,15 @@
 # Changelog: Economic Dossier H1 2026 Analytical Dashboard (BETA)
 
+## Beta v1.3 (28 Oct 2026)
+
+The dashboard now holds data views and charts only. The written report stays separate.
+
+- Removed the embedded report pages from the Overview: Executive Summary, Assessment, Recommendations and footnotes 1 to 9.
+- Removed the "Five findings" key messages taken from the report.
+- The Overview is now data-led: world map, Malaysia benchmark strip, regional summary cards, themes, opportunities, trade and ASEAN highlights, and headline figures, all with short neutral captions.
+- Tab 3 shows the themes raised in Malawakil recommendations as data only, with no owners, dates, missions or trade values.
+- All earlier data corrections, the styling and the methods note are kept. The footer label reads Beta v1.3.
+
 ## Beta v1.2 (28 Oct 2026)
 
 Fixes from the second consistency review.
