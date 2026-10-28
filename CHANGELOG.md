@@ -1,5 +1,31 @@
 # Changelog: Economic Dossier H1 2026 Analytical Dashboard (BETA)
 
+## Beta v1.1 (28 Oct 2026)
+
+Fixes from the consistency review against Report v9.23.
+
+### Counts and data
+- The header reads 209 dossiers (186 national, 23 Consulate-General) from 104 Malawakil. The 81 offices are called Malawakil.
+- Malaysian companies are counted from national dossiers only, matching the report: named for 109 economies and not named for 77 (East Asia 1, Africa 28, Europe 19, South America 16). The chart is now "Top 10", with SD Guthrie and Sime Darby shown separately.
+- The Macro tab's faster-than-Malaysia table uses the report's same-quarter rule and shows the same 20 economies as the Regions tab. Its period note reads 113 on Q1, 54 on Q2 and 19 with no Q1 or Q2 figure. The growth base is 167.
+- The contracting economies card lists every economy it counts.
+- Iran is shown at -6.1% (Q2 2026, as submitted). The -10.1% figure, the Iraq contraction and the IMF figure are removed.
+- The Dubai (Consulate-General) Malaysia-UAE figure and the "despite CEPA" wording are removed.
+- US measures read "US Section 301 tariff and investigations". Section 232 and reciprocal tariffs are dropped.
+- Growth bands follow the report (below 0, 0-1.9, 2.0-3.9, 4.0-5.4, 5.5-5.9, 6.0+), and the second legend is removed.
+- The Explorer shows "-" for placeholder zeros, shows "as submitted" next to corrected values, and fixes the "17. %" display.
+
+### Recommendations and wording
+- There is one recommendation set, the report's six recommendations. Tab 3 now shows only "Themes most often raised in Malawakil recommendations", with neutral labels and no ranking numbers.
+- "Concrete proposals" and "Opportunity pipelines" are removed (they carried owners, dates, mission names and trade values).
+- The Middle East panel is retitled "as reported by Malawakil".
+- E-invoicing and forestry rows match the report annexes. Risk labels use the report's wording ("Exposure to third-country sanctions").
+- Country names follow the report: United States, Republic of the Congo, DR Congo, Palestine, Holy See, Russia, Côte d'Ivoire, and lower-case "and" in country names.
+- Source lines read "Source: national dossiers, H1 2026" plus the approved methods sentence. "How we did this" panels and tooltips are cleaned the same way.
+- "Reports" now reads "economies" where economies are counted. Malaysia is first in 26 of 177 economies, and in 147 of the 173 that name all partners another ASEAN country ranks ahead.
+- Benchmark periods are labelled, "regional divisions" is used and the Palau note is added. One-decimal growth figures, "Policy rate" throughout, and the broken tab reference is fixed.
+- The footer label reads Beta v1.1.
+
 ## Beta v1.0 (28 Oct 2026)
 
 Aligned to the Economic Dossier Report H1 2026, version 9.23.
